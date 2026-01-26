@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hello world 👋
 
-<!--
-**kkam05/kkam05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Kacper Kaminski, a software developer based in the UK.
 
-Here are some ideas to get you started:
+Most of my work consists of full-stack web development with a variety of frameworks and tech stacks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+While I've been programming for a long time. This is a new profile made to showcase some of my better projects.
+All work that is uploaded is developed by me.
+
+## Primary Tech Stack
+- React/Vue, Next.js/NuxtJS, TypeScript
+- Tailwind, Node.js, PostgreSQL
+
+## Personal Tech Stack
+- SvelteKit, TypeScript, Go, Python
+- Tailwind, Pocketbase, Node.js
