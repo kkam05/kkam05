@@ -11,9 +11,8 @@
         <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"/>
     </a>
     <a href="https://kkam.blog">
-        <img src="https://img.shields.io/badge/My_Blog-141413?style=flat-square&labelColor=f0eee6&logo=svelte&logoColor=141413"/>
+        <img src="https://img.shields.io/badge/My_Blog-141413?style=for-the-badge&labelColor=f0eee6&logo=svelte&logoColor=141413"/>
     </a>
-    <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white"/>
 </p>
 
 <h2 align="center">Workspace</h2>
