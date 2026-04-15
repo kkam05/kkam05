@@ -25,7 +25,7 @@
 
 <p align="center">
     📫 Contact me at:
-    <b>kacper@kaminski.ltd</b>
+    <b>kkam05@icloud.com</b>
 </p>
 
 <details>
