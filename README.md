@@ -25,7 +25,7 @@
 
 <p align="center">
     📫 Contact me at:
-    <b>kkam05@icloud.com</b>
+    <b>contact@kkam.blog</b>
 </p>
 
 <details>
